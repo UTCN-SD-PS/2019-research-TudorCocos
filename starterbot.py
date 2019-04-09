@@ -6,9 +6,6 @@ from slackclient import SlackClient
 from allennlp.data.tokenizers.word_tokenizer import WordTokenizer
 from allennlp.data.tokenizers.word_filter import WordFilter, StopwordFilter
 
-# set SLACK_BOT_TOKEN=xoxb-573692084691-594482286416-zrMQNBfbA0jsv4jiiqN64Udi
-# export SLACK_BOT_TOKEN=xoxb-573692084691-594482286416-zrMQNBfbA0jsv4jiiqN64Udi
-
 # instantiate Slack client
 slack_client = SlackClient(os.environ.get('SLACK_BOT_TOKEN'))
 # starterbot's user ID in Slack: value is assigned after the bot starts up
