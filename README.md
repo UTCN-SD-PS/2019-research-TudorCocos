@@ -8,3 +8,5 @@ De aceea, am trecut la a incerca analiza semantica pe parti de propozitie:<br />
 Astfel vom cauta verbe din care sa extragem intentia cum e aici cu "want" si dorinta de a avea ceva, ceea ce urmeaza acestui verb.<br />
 Mai trebuie sa vedem si ce facem daca apar alte cuvinte intre verb si mancarea dorita => ar trebui sa il invatam tipurile de mancaruri,
 de la general la particular, si sa reuseasca sa faca asocieri daca cumva inca nu a intalnit un anumit fel de mancare.<br />
+<br />
+Tudor Cocos & Romina Baila
